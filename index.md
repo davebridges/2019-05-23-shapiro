@@ -50,6 +50,10 @@ see the changes take effect locally.
 	  </font>
   </strong>
 </p>
+<p align="center">
+	If you do not have a current U-M computing account, please visit <a href="https://friend.weblogin.umich.edu/friend/">this site</a> to create a Friend account before attempting to register.
+	</p>
+
 
 {% comment %}
 EVENTBRITE
