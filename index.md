@@ -43,6 +43,14 @@ see the changes take effect locally.
 </div>
 {% endif %}
 
+<p id="registration" align="center">
+  <strong>
+	  <font size="36">
+	  <a href="https://ttc.iss.lsa.umich.edu/ttc/sessions/software-carpentry-workshop-unix-shell-python-github/" target="_blank">Click Here to Register</a>
+	  </font>
+  </strong>
+</p>
+
 {% comment %}
 EVENTBRITE
 
